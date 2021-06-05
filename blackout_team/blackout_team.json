@@ -1,0 +1,36 @@
+{
+    "error": {
+        "error_code": 15,
+        "error_msg": "Access denied: this wall available only for community members",
+        "request_params": [
+            {
+                "key": "domain",
+                "value": "blackout_team"
+            },
+            {
+                "key": "count",
+                "value": "40"
+            },
+            {
+                "key": "expires_in",
+                "value": "0"
+            },
+            {
+                "key": "user_id",
+                "value": "607055789"
+            },
+            {
+                "key": "v",
+                "value": "5.130"
+            },
+            {
+                "key": "method",
+                "value": "wall.get"
+            },
+            {
+                "key": "oauth",
+                "value": "1"
+            }
+        ]
+    }
+}
